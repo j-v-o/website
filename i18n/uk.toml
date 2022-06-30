@@ -113,7 +113,7 @@ other = "Користувачі Японії"
 other = "Завантажень сторінок по HTTPS (рухоме середнє 14 днів)"
 
 [certificate_policy]
-other = "Пілитика сертифікату"
+other = "Політика сертифікату"
 
 [certificate_transparency_name]
 other = "Назва"
@@ -137,13 +137,13 @@ other = "Номер"
 other = "Штат"
 
 [certificate_transparency_window_start]
-other = "Запуск віконця"
+other = "Запуск від кінця"
 
 [certificate_transparency_window_end]
-other = "Кінець віконця"
+other = "Кінець від кінця"
 
 [certification_practices_statement]
-other = "Звіт про практику сертифікації"
+other = "Звіт практики сертифікації"
 
 [overview]
 other = "Огляд"
@@ -173,7 +173,7 @@ other = "Зробити пожертву через PayPal"
 other = "Зробити пожертву через PayPal"
 
 [not_found]
-other = "Ця сторінка не існує, будь ласка, перевірте адресу."
+other = "Ця сторінка не існує, будь ласка, перевірте адресу"
 
 [amount_per_year]
 other = "${{ .nb }}/рік (USD)"
